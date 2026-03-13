@@ -1,0 +1,23 @@
+[project]
+name = "airbnb-project"
+version = "0.1.0"
+description = "An ML project to classify AirBNB housing prices between two categories (0 - Unjustified, 1 - Justified) using classic ML, Computer Vision and Natural Language Processing!"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "asyncio>=4.0.0",
+    "beautifulsoup4>=4.14.3",
+    "dask>=2026.1.2",
+    "dvc>=3.66.1",
+    "imbalanced-learn>=0.14.1",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+    "requests>=2.32.5",
+    "scikit-learn>=1.8.0",
+    "scrapy>=2.14.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "sympy>=1.14.0",
+    "torch>=2.10.0",
+    "yellowbrick>=1.5",
+]
