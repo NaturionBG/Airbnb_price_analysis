@@ -9,26 +9,40 @@
 
 BOT_NAME = "airbnb_scraper"
 
+
 SPIDER_MODULES = ["airbnb_scraper.spiders"]
 NEWSPIDER_MODULE = "airbnb_scraper.spiders"
+
+DOWNLOAD_HANDLERS = {
+  "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+  "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+}
+TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
+PLAYWRIGHT_BROWSER_TYPE = "chromium"
 
 ADDONS = {}
 
 FEED_EXPORTERS = {
     'xlsx': 'scrapy_xlsx.XlsxItemExporter',
 }
+
+PLAYWRIGHT_LAUNCH_OPTIONS = {
+  "headless": False, 
+}
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "airbnb_scraper (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Concurrency and throttling settings
 #CONCURRENT_REQUESTS = 16
 CONCURRENT_REQUESTS_PER_DOMAIN = 1
-DOWNLOAD_DELAY = 3
+DOWNLOAD_DELAY = 5
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0 Safari/537.36 OPRGX/116.0 OPR/116.0'
-RANDOMIZE_DOWNLOAD_DELAY = 2
+RANDOMIZE_DOWNLOAD_DELAY = 5
+TWISTED_REACTOR = 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'
+SCRAPY_PLAYWRIGHT_ENABLED = True
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
 LOG_LEVEL = 'INFO'
@@ -71,7 +85,7 @@ AUTOTHROTTLE_ENABLED = True
 # The initial download delay
 AUTOTHROTTLE_START_DELAY = 5
 # The maximum download delay to be set in case of high latencies
-AUTOTHROTTLE_MAX_DELAY = 30
+AUTOTHROTTLE_MAX_DELAY = 10
 # The average number of requests Scrapy should be sending in parallel to
 # each remote server
 AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0
