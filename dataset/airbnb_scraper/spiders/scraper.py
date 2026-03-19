@@ -64,7 +64,6 @@ class AirBNB(Spider):
             locator = page.locator(selector)
             if await locator.count() > 0 and await locator.first.is_visible():
                 await locator.first.click(timeout=3000)
-                # Wait a moment for pop-up to disappear
                 await page.wait_for_timeout(500)
         except Exception:
             continue
@@ -121,6 +120,7 @@ class AirBNB(Spider):
       try:
         desc_btn = page.locator('button[aria-label="Show more about this place"]')
         if await desc_btn.count() > 0:
+          await desc_btn.scroll_into_view_if_needed()
           await desc_btn.first.click(force=True, timeout=20000)
           await page.wait_for_selector('div[data-section-id="DESCRIPTION_MODAL"]', state="visible", timeout=20000)
           desc = await page.text_content('div[data-section-id="DESCRIPTION_MODAL"]')
@@ -129,6 +129,7 @@ class AirBNB(Spider):
         else:
           desc_btn = page.locator('button[aria-label="About this space"]')
           if await desc_btn.count() > 0:
+            desc_btn.scroll_into_view_if_needed()
             await desc_btn.first.click(force=True, timeout=20000)
             await page.wait_for_selector('div[data-section-id="DESCRIPTION_MODAL"]', state="visible", timeout=20000)
             desc = await page.text_content('div[data-section-id="DESCRIPTION_MODAL"]')
@@ -137,7 +138,7 @@ class AirBNB(Spider):
           else:
             visible_desc = page.locator('div[data-section-id="DESCRIPTION_DEFAULT"]')
             if await visible_desc.count() > 0:
-                desc = await visible_desc.text_content()
+              desc = await visible_desc.text_content()
 
       except Exception as description_parsing_error:
           self.logger.warning(f"Could not open description modal: {description_parsing_error}")
@@ -145,7 +146,9 @@ class AirBNB(Spider):
       amenities = []
       try:
         amenities_sec = page.locator('div[data-section-id="AMENITIES_DEFAULT"]')
-        await amenities_sec.locator('button:has-text("amenities")').click(force=True, timeout=20000)
+        amenities_btn = amenities_sec.locator('button:has-text("amenities")')
+        await amenities_btn.scroll_into_view_if_needed()
+        await amenities_btn.first.click(force=True, timeout=20000)
         await page.wait_for_selector('div[aria-label="What this place offers"]', state="visible", timeout=20000)
         amenities = await page.eval_on_selector_all(
           'div[aria-label="What this place offers"] [id$="-row-title"]',
