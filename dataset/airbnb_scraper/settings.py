@@ -9,7 +9,6 @@
 
 BOT_NAME = "airbnb_scraper"
 
-
 SPIDER_MODULES = ["airbnb_scraper.spiders"]
 NEWSPIDER_MODULE = "airbnb_scraper.spiders"
 
@@ -22,19 +21,20 @@ PLAYWRIGHT_BROWSER_TYPE = "chromium"
 
 ADDONS = {}
 
-FEED_EXPORTERS = {
-    'xlsx': 'scrapy_xlsx.XlsxItemExporter',
-}
+# FEED_EXPORTERS = {
+#     'xlsx': 'scrapy_xlsx.XlsxItemExporter',
+# }
 
 PLAYWRIGHT_LAUNCH_OPTIONS = {
   "headless": False, 
 }
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "airbnb_scraper (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
-
+JOBDIR = './jobs'
 # Concurrency and throttling settings
 #CONCURRENT_REQUESTS = 16
 CONCURRENT_REQUESTS_PER_DOMAIN = 1
@@ -48,7 +48,6 @@ SCRAPY_PLAYWRIGHT_ENABLED = True
 LOG_LEVEL = 'INFO'
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
-
 # Override the default request headers:
 #DEFAULT_REQUEST_HEADERS = {
 #    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
