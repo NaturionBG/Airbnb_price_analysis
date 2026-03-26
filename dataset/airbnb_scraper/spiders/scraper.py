@@ -9,19 +9,19 @@ class AirBNB(Spider):
   name = 'airbnb'
   
   async def start(self):
-        with open('urls.json', 'r') as f:
-            data = json.load(f)
-        for item in data:
-            url = item['url']
-            yield Request(
-                url=url,
-                callback=self.parse_listing,
-                meta={
-                    'playwright': True,
-                    'playwright_include_page': True,
-                    'playwright_page_timeout': 35000,
-                }
-            )
+    with open('current_urls.json') as f:
+        urls = json.load(f)
+    for url in urls:
+        yield Request(
+            url=url,
+            callback=self.parse_listing,
+            meta={
+                'playwright': True,
+                'playwright_include_page': True,
+                'playwright_page_timeout': 35000,
+            }
+        )
+        sleep(1.5)
   
   async def close_popups(self, page):
     popup_selectors = [
@@ -140,7 +140,9 @@ l = [
   'https://www.airbnb.com/s/Denver--Colorado--United-States/homes',
   'https://www.airbnb.com/s/San-Francisco--California--United-States/homes',
   'https://www.airbnb.com/s/Seattle--Washington--United-States/homes',
-  
+  'https://www.airbnb.com/s/Houston--Texas--United-States/homes',
+  'https://www.airbnb.com/s/Nashville--Tennessee--United-States/homes',
+  'https://www.airbnb.com/s/Boston--Massachusetts--United-States/homes',
 ] 
 class AllListings(Spider):
   name = 'links'

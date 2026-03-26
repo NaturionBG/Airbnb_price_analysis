@@ -34,13 +34,12 @@ PLAYWRIGHT_LAUNCH_OPTIONS = {
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
-JOBDIR = './jobs'
 # Concurrency and throttling settings
 #CONCURRENT_REQUESTS = 16
 CONCURRENT_REQUESTS_PER_DOMAIN = 1
-DOWNLOAD_DELAY = 5
+DOWNLOAD_DELAY = 4
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0 Safari/537.36 OPRGX/116.0 OPR/116.0'
-RANDOMIZE_DOWNLOAD_DELAY = 5
+RANDOMIZE_DOWNLOAD_DELAY = 4
 TWISTED_REACTOR = 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'
 SCRAPY_PLAYWRIGHT_ENABLED = True
 # Disable cookies (enabled by default)
