@@ -1,2 +1,8 @@
 [core]
     autostage = true
+    remote = myremote
+['remote "myremote"']
+    url = s3://dvcstore
+    endpointurl = http://localhost:9000
+    access_key_id = naturion
+    secret_access_key = naturionbg

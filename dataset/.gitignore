@@ -3,3 +3,4 @@
 /data.jl
 /current_urls.json
 /dataset.xlsx
+/dataset.parquet
