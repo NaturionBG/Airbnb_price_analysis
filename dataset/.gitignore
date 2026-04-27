@@ -4,3 +4,5 @@
 /current_urls.json
 /dataset.xlsx
 /dataset.parquet
+/dataset_temp.parquet
+/forCatboost.parquet

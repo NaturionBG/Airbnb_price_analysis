@@ -1,0 +1,5 @@
+outs:
+- md5: 2e45be503bb8c0a3b504f65f4e2fd862
+  size: 1157296
+  hash: md5
+  path: airbnb_catboost.cmb

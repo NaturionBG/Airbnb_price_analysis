@@ -1,0 +1,5 @@
+outs:
+- md5: 39ac0c647f1f1693e5217c2aa01612ce
+  size: 2287952
+  hash: md5
+  path: forCatboost.parquet
