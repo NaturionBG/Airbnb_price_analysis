@@ -78,7 +78,7 @@ with gr.Blocks(title = 'CODEBREAKER') as Log:
         luxury_score = gr.Slider(0, 100, label='Choose the luxury score for your listing. 0 - 100', step=1)
         location_desirability = gr.Slider(0, 100, label='Choose the location desirability score for your listing. 0 - 100', step=1)
         city = gr.Dropdown(['Boston', 'Los Angeles', 'New York', 'Houston', 'Nashville', 'Seattle', 'Denver', 'San Francisco', 'Somerville', 'Cambridge', 'Topanga'], label='Choose the city where this listing is situated.')
-        quality = gr.Dropdown(['acceptable', 'great', 'perfect'], label='Choose what condition the quarters in the listing are in.')
+        quality = gr.Dropdown(['great', 'perfect'], label='Choose what condition the quarters in the listing are in.')
         predictor = gr.Button('Submit for Evaluation.')
     with gr.Column():
       output = gr.Textbox(label = 'Your Result.')

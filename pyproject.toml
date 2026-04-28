@@ -14,6 +14,7 @@ dependencies = [
     "dvc>=3.66.1",
     "gradio>=6.13.0",
     "imbalanced-learn>=0.14.1",
+    "ipython>=9.13.0",
     "langchain-chroma>=1.1.0",
     "langchain-huggingface>=1.2.1",
     "langchain-ollama>=1.1.0",
