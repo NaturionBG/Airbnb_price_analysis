@@ -1,296 +1,296 @@
 bedrooms,beds,baths,luxury_items,luxury_score,location_desirability,quality,city
-2.0,6.0,2.0,0.0,85.0,90.0,great,Nashville
-1.0,2.0,1.0,0.0,85.0,80.0,great,Nashville
-1.0,3.0,1.0,0.0,75.0,80.0,great,Denver
-2.0,2.0,2.0,0.0,90.0,85.0,great,Seattle
-1.0,2.0,1.0,0.0,70.0,95.0,great,Nashville
-1.0,2.0,1.0,0.0,80.0,90.0,great,Nashville
-0.0,0.0,0.0,2.0,40.0,85.0,great,Cambridge
-0.0,2.0,1.0,1.0,50.0,85.0,great,Boston
-3.0,4.0,3.0,0.0,90.0,85.0,great,Denver
-1.0,2.0,1.0,0.0,80.0,90.0,great,Nashville
-1.0,1.0,1.0,0.0,60.0,75.0,great,Nashville
-1.0,1.0,1.0,0.0,75.0,85.0,great,Houston
-1.0,1.0,1.0,0.0,60.0,85.0,great,Seattle
-4.0,8.0,4.0,0.0,90.0,85.0,great,Nashville
-1.0,1.0,1.0,0.0,75.0,85.0,great,Houston
-1.0,1.0,1.0,0.0,70.0,80.0,great,Boston
-1.0,1.0,1.0,0.0,75.0,80.0,great,San Francisco
-1.0,1.0,0.0,1.0,70.0,80.0,great,Los Angeles
-1.0,1.0,1.0,0.0,60.0,85.0,great,Seattle
-2.0,2.0,1.0,0.0,75.0,85.0,great,Denver
-1.0,2.0,1.0,0.0,75.0,85.0,great,San Francisco
-2.0,2.0,2.0,0.0,80.0,85.0,great,Denver
-1.0,2.0,1.0,0.0,60.0,85.0,great,Houston
 2.0,2.0,2.0,0.0,95.0,85.0,great,Houston
-3.0,3.0,1.5,0.0,80.0,90.0,great,Denver
-0.0,0.0,0.0,2.0,60.0,85.0,great,San Francisco
-2.0,0.0,1.0,0.0,60.0,85.0,great,Nashville
-1.0,3.0,1.0,0.0,75.0,90.0,great,Nashville
-1.0,1.0,1.0,0.0,80.0,90.0,great,Los Angeles
-4.0,10.0,2.5,0.0,70.0,90.0,great,Nashville
-2.0,2.0,2.5,0.0,90.0,85.0,great,Houston
-1.0,2.0,1.0,0.0,75.0,85.0,great,Nashville
-2.0,3.0,2.0,0.0,75.0,85.0,great,Los Angeles
-2.0,3.0,2.0,0.0,85.0,90.0,great,Nashville
-0.0,2.0,1.0,1.0,60.0,75.0,great,San Francisco
-2.0,3.0,1.0,0.0,70.0,99.0,great,Denver
-1.0,3.0,1.0,0.0,85.0,75.0,great,Seattle
-1.0,2.0,1.0,0.0,70.0,95.0,great,Denver
-4.0,5.0,1.0,0.0,85.0,90.0,great,Seattle
-2.0,3.0,1.0,0.0,80.0,95.0,great,Denver
-1.0,2.0,2.0,0.0,80.0,90.0,great,Seattle
-3.0,5.0,2.0,0.0,65.0,80.0,great,Nashville
-3.0,0.0,0.0,2.0,70.0,65.0,great,San Francisco
-1.0,1.0,1.0,0.0,60.0,90.0,great,Boston
-1.0,2.0,1.0,0.0,80.0,90.0,great,Seattle
-0.0,1.0,1.0,1.0,85.0,90.0,great,Boston
-3.0,3.0,1.0,0.0,75.0,90.0,great,Boston
-3.0,3.0,2.0,0.0,75.0,85.0,great,Houston
-3.0,5.0,3.5,0.0,85.0,90.0,great,Boston
-0.0,1.0,0.0,1.0,50.0,60.0,great,Somerville
-4.0,6.0,3.5,0.0,85.0,70.0,great,Houston
-0.0,0.0,0.0,2.0,90.0,95.0,great,San Francisco
-1.0,2.0,1.0,0.0,50.0,85.0,great,Houston
-1.0,2.0,1.0,0.0,70.0,65.0,great,Boston
-1.0,1.0,1.0,0.0,50.0,90.0,great,Houston
-1.0,1.0,1.0,0.0,80.0,90.0,great,Nashville
-0.0,1.0,0.0,2.0,90.0,85.0,great,Seattle
-4.0,4.0,3.5,0.0,90.0,85.0,great,Denver
-1.0,2.0,1.0,0.0,50.0,85.0,great,Denver
-4.0,8.0,2.5,0.0,85.0,90.0,great,Boston
-0.0,1.0,1.0,1.0,40.0,85.0,great,Seattle
-1.0,2.0,1.0,0.0,65.0,90.0,great,Boston
-0.0,1.0,0.0,2.0,80.0,90.0,great,Boston
-2.0,1.0,1.0,0.0,70.0,80.0,great,Houston
-2.0,4.0,2.0,0.0,85.0,90.0,great,Seattle
-2.0,2.0,1.0,0.0,60.0,85.0,great,Denver
-1.0,2.0,1.0,0.0,75.0,85.0,great,Seattle
-3.0,7.0,2.0,0.0,90.0,85.0,great,Nashville
-3.0,3.0,1.0,0.0,75.0,90.0,great,Los Angeles
-2.0,3.0,1.0,0.0,75.0,80.0,great,San Francisco
-1.0,3.0,1.0,0.0,90.0,95.0,great,Nashville
-3.0,4.0,3.5,0.0,85.0,90.0,perfect,Houston
-0.0,0.0,0.0,2.0,60.0,85.0,great,San Francisco
-2.0,3.0,2.0,0.0,85.0,90.0,perfect,Boston
-3.0,3.0,2.0,0.0,85.0,90.0,great,Los Angeles
-1.0,1.0,1.0,0.0,50.0,90.0,great,New York
-2.0,2.0,1.0,0.0,75.0,90.0,great,Boston
-4.0,4.0,2.0,0.0,85.0,90.0,great,Seattle
-4.0,5.0,2.0,0.0,95.0,85.0,great,Cambridge
-2.0,3.0,1.0,0.0,60.0,85.0,great,Cambridge
-0.0,0.0,1.0,0.0,95.0,85.0,perfect,Topanga
-2.0,2.0,1.0,0.0,80.0,90.0,great,Seattle
-2.0,2.0,1.0,0.0,75.0,85.0,great,Seattle
-0.0,1.0,0.0,1.0,85.0,90.0,great,Cambridge
-1.0,2.0,0.0,1.0,90.0,85.0,great,San Francisco
-1.0,1.0,1.0,0.0,80.0,95.0,great,Boston
-1.0,2.0,1.0,0.0,60.0,85.0,great,Nashville
-1.0,2.0,1.0,0.0,90.0,85.0,great,Houston
-1.0,1.0,1.0,0.0,90.0,85.0,great,Houston
-0.0,1.0,1.0,1.0,40.0,90.0,great,Houston
-1.0,3.0,1.0,0.0,70.0,85.0,great,Cambridge
-3.0,3.0,2.0,0.0,85.0,90.0,great,Seattle
-2.0,6.0,2.0,0.0,85.0,90.0,great,Nashville
-3.0,3.0,2.0,0.0,85.0,90.0,great,San Francisco
-2.0,2.0,1.0,0.0,85.0,95.0,great,Houston
-3.0,3.0,3.5,0.0,90.0,85.0,great,Denver
-2.0,2.0,1.0,0.0,75.0,90.0,great,Boston
-1.0,2.0,1.0,0.0,75.0,90.0,great,San Francisco
-1.0,2.0,1.0,0.0,65.0,85.0,great,Nashville
-2.0,2.0,1.0,0.0,75.0,90.0,great,Topanga
-3.0,3.0,2.0,0.0,75.0,85.0,great,Topanga
-1.0,2.0,1.0,0.0,80.0,90.0,great,Nashville
-2.0,2.0,2.0,0.0,80.0,95.0,great,Denver
-1.0,2.0,1.0,0.0,65.0,75.0,great,Seattle
-1.0,1.0,1.0,0.0,90.0,85.0,great,Denver
-3.0,4.0,3.5,0.0,85.0,90.0,great,Houston
-2.0,2.0,1.0,0.0,70.0,90.0,great,Denver
-0.0,6.0,1.0,1.0,65.0,90.0,great,Nashville
-1.0,1.0,1.0,0.0,75.0,90.0,great,San Francisco
-2.0,4.0,2.0,0.0,70.0,85.0,great,Denver
-1.0,1.0,1.0,0.0,80.0,85.0,great,Seattle
-2.0,3.0,1.5,0.0,70.0,90.0,great,Los Angeles
-2.0,3.0,2.0,0.0,60.0,85.0,great,Nashville
-1.0,2.0,1.5,0.0,90.0,85.0,great,Houston
-1.0,1.0,0.0,1.0,60.0,95.0,great,New York
-3.0,3.0,2.0,0.0,70.0,80.0,great,Houston
-2.0,2.0,0.0,1.0,80.0,95.0,great,Denver
-1.0,1.0,1.0,0.0,85.0,90.0,great,Seattle
-3.0,4.0,1.0,0.0,60.0,85.0,great,Boston
-1.0,2.0,1.0,0.0,75.0,85.0,great,Nashville
-2.0,5.0,0.0,1.0,85.0,90.0,great,San Francisco
-1.0,2.0,1.0,0.0,40.0,70.0,great,Seattle
-0.0,1.0,0.0,1.0,50.0,80.0,great,Somerville
-0.0,1.0,1.0,1.0,65.0,85.0,great,Boston
-2.0,2.0,2.5,0.0,70.0,80.0,great,Seattle
-3.0,5.0,1.5,0.0,80.0,90.0,great,San Francisco
-1.0,1.0,1.0,0.0,85.0,90.0,great,Seattle
-2.0,2.0,2.5,0.0,70.0,80.0,great,Nashville
-1.0,1.0,1.0,0.0,60.0,85.0,great,Boston
-0.0,1.0,0.0,1.0,60.0,85.0,great,San Francisco
-2.0,5.0,2.0,0.0,90.0,85.0,great,Seattle
-1.0,4.0,1.0,0.0,80.0,85.0,great,San Francisco
-1.0,2.0,1.0,0.0,75.0,95.0,great,Houston
-1.0,1.0,0.0,1.0,40.0,90.0,great,Seattle
-2.0,3.0,1.0,0.0,75.0,85.0,great,Denver
-2.0,3.0,1.0,0.0,85.0,80.0,great,Boston
-2.0,2.0,1.0,0.0,65.0,80.0,great,Denver
-0.0,0.0,0.0,2.0,85.0,90.0,great,San Francisco
-0.0,0.0,0.0,2.0,90.0,95.0,great,San Francisco
-3.0,3.0,3.0,0.0,80.0,90.0,great,San Francisco
-1.0,2.0,1.0,0.0,80.0,90.0,great,Los Angeles
-1.0,1.0,0.0,1.0,85.0,90.0,great,San Francisco
-2.0,2.0,1.0,0.0,85.0,75.0,great,Denver
-0.0,2.0,1.0,1.0,75.0,80.0,great,Seattle
-1.0,2.0,1.0,0.0,50.0,85.0,great,Denver
-1.0,1.0,1.0,0.0,60.0,85.0,great,San Francisco
-0.0,1.0,1.0,1.0,60.0,85.0,great,San Francisco
-2.0,2.0,2.0,0.0,85.0,95.0,great,Seattle
-1.0,2.0,2.0,0.0,75.0,85.0,great,Cambridge
-0.0,0.0,0.0,2.0,75.0,90.0,great,San Francisco
-1.0,2.0,1.0,0.0,50.0,65.0,great,Boston
-1.0,2.0,1.0,0.0,70.0,90.0,great,Somerville
-1.0,0.0,0.0,1.0,50.0,85.0,great,San Francisco
-0.0,1.0,1.0,1.0,85.0,95.0,great,Houston
-1.0,2.0,1.0,0.0,75.0,85.0,great,Seattle
-1.0,2.0,1.0,0.0,85.0,95.0,great,Nashville
-2.0,3.0,1.0,0.0,65.0,85.0,great,Seattle
-0.0,0.0,0.0,2.0,80.0,95.0,great,Denver
-0.0,0.0,0.0,2.0,75.0,85.0,great,San Francisco
-2.0,2.0,0.0,1.0,65.0,80.0,great,Denver
-4.0,4.0,4.0,0.0,65.0,85.0,great,Denver
-0.0,1.0,1.0,1.0,75.0,85.0,great,Boston
-1.0,1.0,1.0,0.0,75.0,90.0,great,Los Angeles
-1.0,2.0,1.0,0.0,65.0,85.0,great,Houston
-1.0,1.0,0.0,1.0,60.0,80.0,great,San Francisco
-2.0,3.0,1.5,0.0,75.0,80.0,great,Seattle
-3.0,3.0,1.0,0.0,95.0,85.0,perfect,Denver
-1.0,2.0,1.0,0.0,75.0,90.0,great,Denver
-3.0,3.0,1.0,0.0,80.0,85.0,great,Boston
 0.0,1.0,1.0,1.0,60.0,85.0,great,Seattle
-0.0,0.0,0.0,2.0,30.0,85.0,great,San Francisco
-1.0,2.0,1.0,0.0,85.0,75.0,great,San Francisco
-1.0,1.0,1.0,0.0,75.0,80.0,great,San Francisco
-2.0,2.0,1.0,0.0,60.0,95.0,great,Boston
-1.0,4.0,1.0,0.0,90.0,85.0,great,Nashville
-1.0,2.0,0.0,1.0,95.0,85.0,perfect,Boston
-1.0,1.0,1.0,0.0,95.0,85.0,perfect,Houston
-1.0,1.0,1.0,0.0,70.0,85.0,great,Houston
-0.0,1.0,1.0,1.0,85.0,90.0,great,Houston
-3.0,3.0,3.5,0.0,75.0,90.0,great,Houston
-2.0,2.0,1.5,0.0,80.0,90.0,great,Seattle
-1.0,2.0,1.0,0.0,85.0,90.0,great,Nashville
-1.0,0.0,0.0,1.0,50.0,90.0,great,Cambridge
-1.0,2.0,1.0,0.0,60.0,85.0,great,Houston
-2.0,2.0,1.0,0.0,90.0,75.0,great,Denver
-1.0,2.0,0.0,1.0,85.0,95.0,great,Los Angeles
-1.0,2.0,1.0,0.0,85.0,85.0,great,Seattle
-1.0,2.0,1.0,0.0,70.0,85.0,great,Boston
-1.0,2.0,1.0,0.0,60.0,85.0,great,Houston
-1.0,1.0,1.0,0.0,50.0,75.0,great,Seattle
-0.0,0.0,0.0,2.0,85.0,90.0,great,San Francisco
-1.0,1.0,1.0,0.0,75.0,90.0,great,San Francisco
+3.0,3.0,2.5,0.0,90.0,85.0,great,San Francisco
+1.0,1.0,0.0,1.0,90.0,95.0,great,New York
+0.0,0.0,0.0,2.0,80.0,75.0,great,Los Angeles
+5.0,5.0,4.5,0.0,75.0,90.0,great,Los Angeles
+1.0,1.0,0.0,1.0,60.0,95.0,great,New York
 1.0,1.0,1.0,0.0,85.0,90.0,great,Boston
-0.0,0.0,0.0,2.0,80.0,90.0,great,San Francisco
-0.0,1.0,1.0,1.0,40.0,85.0,great,Boston
-0.0,0.0,0.0,2.0,25.0,85.0,great,Boston
-1.0,1.0,1.0,0.0,75.0,85.0,great,Denver
-1.0,2.0,1.0,0.0,85.0,90.0,great,Los Angeles
-1.0,1.0,1.0,0.0,85.0,80.0,great,Nashville
-2.0,2.0,2.0,0.0,90.0,85.0,great,Nashville
-1.0,2.0,1.0,0.0,70.0,85.0,great,Los Angeles
-1.0,1.0,0.0,1.0,60.0,85.0,great,Nashville
-1.0,2.0,1.0,0.0,75.0,85.0,great,Boston
-1.0,2.0,1.0,0.0,75.0,90.0,great,Denver
-0.0,1.0,1.0,1.0,50.0,85.0,great,Houston
-1.0,2.0,1.0,0.0,75.0,90.0,great,Nashville
-6.0,8.0,2.0,0.0,60.0,85.0,great,Cambridge
-1.0,1.0,1.0,0.0,85.0,90.0,great,Nashville
-0.0,0.0,0.0,2.0,70.0,85.0,great,San Francisco
-1.0,1.0,1.0,0.0,75.0,85.0,great,Seattle
-2.0,2.0,1.0,0.0,75.0,85.0,great,Seattle
-1.0,2.0,1.0,0.0,85.0,75.0,great,Houston
-1.0,2.0,1.0,0.0,90.0,95.0,perfect,San Francisco
-3.0,3.0,2.0,0.0,80.0,90.0,great,San Francisco
-1.0,1.0,0.0,1.0,60.0,85.0,great,Los Angeles
-2.0,2.0,1.0,0.0,75.0,80.0,great,Seattle
-1.0,2.0,1.0,0.0,65.0,85.0,great,Seattle
-1.0,1.0,1.0,0.0,85.0,90.0,great,Boston
-2.0,4.0,2.0,0.0,85.0,90.0,great,Denver
-0.0,0.0,0.0,2.0,50.0,80.0,great,San Francisco
-4.0,6.0,3.5,0.0,80.0,90.0,great,Nashville
-0.0,1.0,0.0,1.0,60.0,80.0,great,Denver
-1.0,1.0,1.0,0.0,85.0,90.0,great,Denver
-1.0,1.0,1.0,0.0,60.0,85.0,great,Seattle
-1.0,1.0,0.0,1.0,85.0,75.0,great,San Francisco
-1.0,1.0,1.0,0.0,50.0,80.0,great,Houston
-1.0,2.0,1.0,0.0,85.0,75.0,great,Seattle
-1.0,2.0,1.0,0.0,85.0,90.0,great,Seattle
-1.0,1.0,1.0,0.0,85.0,90.0,great,Denver
-6.0,17.0,7.0,0.0,90.0,85.0,great,Houston
-3.0,4.0,3.5,0.0,75.0,90.0,great,Houston
-1.0,1.0,0.0,1.0,40.0,85.0,great,San Francisco
+0.0,0.0,0.0,2.0,75.0,90.0,great,San Francisco
+1.0,1.0,1.0,0.0,85.0,90.0,great,Houston
+2.0,2.0,1.0,0.0,75.0,90.0,great,Topanga
+1.0,1.0,1.5,0.0,20.0,85.0,great,Boston
+1.0,1.0,1.5,0.0,75.0,90.0,great,Houston
+1.0,2.0,1.0,0.0,70.0,95.0,great,Nashville
+1.0,1.0,2.0,0.0,85.0,90.0,great,Denver
+1.0,2.0,1.0,0.0,60.0,85.0,great,Seattle
+3.0,3.0,2.0,0.0,65.0,75.0,great,Seattle
+2.0,3.0,2.0,0.0,90.0,95.0,great,Los Angeles
+1.0,1.0,0.0,1.0,70.0,85.0,great,San Francisco
+3.0,6.0,3.0,0.0,90.0,85.0,great,Nashville
+0.0,0.0,0.0,2.0,60.0,85.0,great,Houston
+3.0,4.0,3.0,0.0,90.0,85.0,great,Denver
 2.0,3.0,1.0,0.0,70.0,95.0,great,Denver
-3.0,6.0,3.0,0.0,75.0,85.0,great,Houston
-3.0,4.0,3.0,0.0,90.0,85.0,perfect,Los Angeles
-3.0,6.0,2.0,0.0,60.0,90.0,great,Nashville
-3.0,5.0,1.0,0.0,70.0,85.0,great,Denver
-1.0,1.0,1.0,0.0,85.0,90.0,great,Denver
-1.0,2.0,1.0,0.0,70.0,90.0,great,Nashville
-2.0,2.0,1.0,0.0,75.0,85.0,great,Denver
-2.0,3.0,2.0,0.0,80.0,95.0,great,San Francisco
-1.0,2.0,1.0,0.0,75.0,98.0,great,Seattle
-1.0,1.0,1.0,0.0,80.0,85.0,great,Seattle
-2.0,3.0,2.0,0.0,60.0,85.0,great,Nashville
-3.0,4.0,2.5,0.0,85.0,90.0,great,Houston
-1.0,1.0,1.0,0.0,65.0,85.0,great,San Francisco
-4.0,4.0,4.0,0.0,95.0,85.0,perfect,Nashville
-1.0,1.0,0.0,1.0,60.0,85.0,great,Seattle
-1.0,1.0,1.0,0.0,60.0,85.0,great,Houston
-2.0,3.0,2.0,0.0,65.0,85.0,great,San Francisco
-1.0,1.0,1.0,0.0,75.0,85.0,great,Denver
-0.0,2.0,1.0,1.0,60.0,90.0,great,Los Angeles
-2.0,2.0,2.0,0.0,80.0,85.0,great,Boston
-2.0,2.0,2.0,0.0,85.0,75.0,great,Nashville
-1.0,1.0,1.0,0.0,75.0,85.0,great,Seattle
-1.0,2.0,0.0,1.0,40.0,85.0,great,Nashville
-0.0,0.0,0.0,2.0,75.0,85.0,great,Denver
-0.0,1.0,1.0,1.0,65.0,80.0,great,Denver
-6.0,17.0,7.0,0.0,90.0,75.0,great,Houston
-3.0,3.0,2.5,0.0,80.0,90.0,great,Houston
-1.0,1.0,1.0,0.0,85.0,90.0,great,Boston
-0.0,2.0,1.0,1.0,80.0,95.0,great,Denver
-3.0,4.0,2.0,0.0,50.0,80.0,great,Denver
-0.0,0.0,0.0,2.0,80.0,90.0,great,San Francisco
-3.0,4.0,1.0,0.0,80.0,90.0,great,Boston
-0.0,2.0,1.0,1.0,80.0,85.0,great,Los Angeles
-2.0,2.0,0.0,1.0,75.0,85.0,great,Houston
 0.0,1.0,1.0,1.0,85.0,90.0,great,San Francisco
-1.0,3.0,1.0,0.0,75.0,90.0,great,Nashville
-1.0,1.0,1.0,0.0,60.0,80.0,great,Cambridge
-1.0,1.0,1.0,0.0,90.0,85.0,great,Los Angeles
-1.0,3.0,1.0,0.0,60.0,80.0,great,Nashville
-1.0,1.0,1.0,0.0,60.0,80.0,great,Seattle
-0.0,0.0,0.0,2.0,50.0,85.0,great,San Francisco
-3.0,3.0,2.5,0.0,40.0,80.0,great,Houston
-3.0,3.0,3.5,0.0,85.0,80.0,great,Houston
-2.0,3.0,2.0,0.0,85.0,90.0,great,Seattle
-4.0,5.0,2.5,0.0,95.0,80.0,perfect,Houston
-1.0,2.0,1.0,0.0,50.0,80.0,great,Denver
-1.0,2.0,1.0,0.0,65.0,90.0,great,Nashville
-1.0,4.0,1.0,0.0,40.0,95.0,great,Seattle
-2.0,2.0,2.0,0.0,50.0,85.0,great,San Francisco
-3.0,5.0,3.5,0.0,85.0,90.0,great,Los Angeles
-2.0,3.0,1.0,0.0,80.0,90.0,great,Seattle
-2.0,2.0,1.0,0.0,75.0,85.0,great,Los Angeles
+3.0,5.0,3.5,0.0,60.0,95.0,great,Nashville
+2.0,3.0,1.0,0.0,80.0,90.0,great,Boston
+0.0,1.0,1.0,1.0,60.0,85.0,great,Houston
+1.0,1.0,1.0,0.0,65.0,85.0,great,San Francisco
+3.0,7.0,2.5,0.0,85.0,90.0,great,Denver
+1.0,2.0,1.0,0.0,85.0,90.0,great,Nashville
+1.0,1.0,0.0,1.0,75.0,80.0,great,New York
+3.0,3.0,2.0,0.0,90.0,65.0,great,Houston
+1.0,1.0,1.0,0.0,80.0,95.0,great,Los Angeles
+2.0,2.0,1.0,0.0,75.0,90.0,great,Boston
+0.0,1.0,0.0,1.0,85.0,60.0,great,Los Angeles
+1.0,1.0,1.0,0.0,95.0,85.0,great,Topanga
+1.0,2.0,1.0,0.0,65.0,85.0,great,Nashville
+2.0,6.0,2.0,0.0,90.0,95.0,great,Nashville
+2.0,2.0,1.0,0.0,60.0,80.0,great,Nashville
+3.0,7.0,3.5,0.0,90.0,85.0,great,Houston
+0.0,0.0,0.0,2.0,75.0,85.0,great,San Francisco
+0.0,1.0,1.0,0.0,85.0,75.0,great,Topanga
+0.0,1.0,1.0,1.0,85.0,70.0,great,Houston
+2.0,2.0,1.0,0.0,60.0,85.0,great,Denver
+3.0,3.0,2.0,0.0,85.0,80.0,great,Los Angeles
+2.0,2.0,0.0,1.0,85.0,75.0,great,San Francisco
+1.0,1.0,0.0,1.0,50.0,90.0,great,Los Angeles
+0.0,0.0,0.0,2.0,50.0,90.0,great,San Francisco
+2.0,2.0,1.0,0.0,60.0,85.0,great,Seattle
+2.0,2.0,1.0,0.0,75.0,80.0,great,Cambridge
+1.0,1.0,1.0,0.0,60.0,85.0,great,Seattle
+0.0,1.0,1.0,1.0,75.0,85.0,great,Houston
+1.0,2.0,1.0,0.0,75.0,85.0,great,San Francisco
+1.0,2.0,1.0,0.0,70.0,80.0,great,Denver
+2.0,2.0,2.5,0.0,90.0,75.0,great,Los Angeles
+2.0,3.0,2.0,0.0,85.0,90.0,perfect,Boston
+2.0,2.0,2.0,0.0,70.0,90.0,great,Nashville
+2.0,2.0,1.0,0.0,75.0,85.0,great,Denver
+2.0,2.0,1.0,0.0,50.0,90.0,great,Denver
 1.0,3.0,1.0,0.0,80.0,90.0,great,Nashville
-3.0,4.0,3.5,0.0,85.0,80.0,great,Seattle
-2.0,3.0,1.0,0.0,60.0,75.0,great,Boston
-4.0,14.0,3.0,0.0,70.0,95.0,great,Nashville
-2.0,2.0,1.0,0.0,70.0,90.0,great,Boston
-2.0,2.0,2.0,0.0,85.0,90.0,great,Nashville
+0.0,0.0,0.0,2.0,40.0,85.0,great,Cambridge
+1.0,2.0,1.0,0.0,65.0,90.0,great,Boston
+1.0,1.0,1.0,0.0,65.0,85.0,great,Nashville
+0.0,0.0,0.0,2.0,75.0,85.0,great,San Francisco
+1.0,1.0,1.0,0.0,75.0,85.0,great,Nashville
+3.0,3.0,2.5,0.0,75.0,90.0,great,Boston
+2.0,2.0,1.0,0.0,60.0,85.0,great,Seattle
+0.0,0.0,0.0,2.0,90.0,95.0,great,San Francisco
+2.0,2.0,2.0,0.0,75.0,85.0,great,San Francisco
+1.0,2.0,2.0,0.0,75.0,85.0,great,Cambridge
+0.0,0.0,0.0,2.0,85.0,95.0,great,San Francisco
+3.0,0.0,0.0,2.0,70.0,65.0,great,San Francisco
+4.0,5.0,3.5,0.0,80.0,90.0,great,Houston
+1.0,2.0,1.0,0.0,70.0,90.0,great,Boston
+1.0,3.0,1.0,0.0,85.0,90.0,great,Nashville
+2.0,4.0,2.0,0.0,70.0,65.0,great,Boston
+3.0,3.0,1.5,0.0,75.0,90.0,great,Somerville
+0.0,2.0,1.0,1.0,60.0,85.0,great,Nashville
+1.0,3.0,1.5,0.0,80.0,90.0,great,Denver
+2.0,4.0,2.0,0.0,70.0,80.0,great,Houston
+2.0,2.0,1.0,0.0,85.0,90.0,great,Houston
+1.0,2.0,1.0,0.0,65.0,85.0,great,Nashville
+0.0,0.0,0.0,2.0,85.0,90.0,great,San Francisco
+1.0,1.0,1.0,0.0,85.0,90.0,great,Houston
+1.0,2.0,1.0,0.0,80.0,90.0,great,Nashville
+1.0,3.0,1.0,0.0,90.0,85.0,great,Nashville
+1.0,3.0,1.0,0.0,70.0,85.0,great,Cambridge
+1.0,2.0,1.0,0.0,85.0,80.0,great,San Francisco
+3.0,4.0,2.0,0.0,60.0,85.0,great,Nashville
+0.0,0.0,0.0,2.0,60.0,85.0,great,San Francisco
+1.0,1.0,1.0,0.0,60.0,80.0,great,Cambridge
+3.0,3.0,2.0,0.0,75.0,85.0,great,Houston
+3.0,3.0,2.0,0.0,85.0,90.0,great,San Francisco
+3.0,2.0,2.0,0.0,85.0,90.0,great,Los Angeles
+5.0,5.0,4.5,0.0,75.0,90.0,great,Los Angeles
+1.0,2.0,1.0,0.0,60.0,85.0,great,Denver
+2.0,3.0,2.0,0.0,85.0,90.0,great,Nashville
+0.0,0.0,0.0,2.0,85.0,90.0,great,San Francisco
+2.0,3.0,2.0,0.0,75.0,80.0,great,Houston
+2.0,3.0,2.0,0.0,75.0,90.0,great,Seattle
+4.0,10.0,2.5,0.0,75.0,85.0,great,Nashville
+1.0,2.0,1.0,0.0,65.0,85.0,great,Denver
+2.0,2.0,2.5,0.0,85.0,90.0,great,Denver
+1.0,1.0,0.0,1.0,50.0,80.0,great,New York
+1.0,1.0,1.0,0.0,80.0,95.0,great,Denver
+1.0,1.0,1.5,0.0,85.0,90.0,great,Los Angeles
+2.0,2.0,1.0,0.0,80.0,90.0,great,Denver
+1.0,1.0,0.0,1.0,60.0,85.0,great,Seattle
+1.0,3.0,1.0,0.0,95.0,85.0,perfect,Houston
+0.0,2.0,0.0,1.0,70.0,95.0,great,Cambridge
+1.0,2.0,1.0,0.0,70.0,85.0,great,San Francisco
+3.0,3.0,2.0,0.0,85.0,90.0,great,San Francisco
+1.0,2.0,1.0,0.0,50.0,85.0,great,Denver
+1.0,2.0,1.0,0.0,50.0,85.0,great,Denver
+2.0,2.0,2.0,0.0,50.0,90.0,great,Boston
+1.0,3.0,1.0,0.0,95.0,85.0,perfect,Nashville
+1.0,2.0,1.0,0.0,75.0,85.0,great,Seattle
+2.0,4.0,1.0,0.0,85.0,90.0,great,Boston
+2.0,3.0,2.0,0.0,75.0,85.0,great,Los Angeles
+2.0,2.0,1.5,0.0,80.0,90.0,great,Seattle
+1.0,1.0,0.0,1.0,30.0,80.0,great,Nashville
+3.0,4.0,3.5,0.0,85.0,90.0,perfect,Houston
+1.0,1.0,1.0,0.0,50.0,80.0,great,Denver
+1.0,1.0,1.0,0.0,85.0,90.0,great,Nashville
+2.0,2.0,1.0,0.0,75.0,90.0,great,Boston
+0.0,0.0,0.0,2.0,40.0,85.0,great,Denver
+1.0,2.0,1.0,0.0,75.0,85.0,great,Denver
+0.0,1.0,1.0,1.0,80.0,90.0,great,Seattle
+3.0,6.0,3.0,0.0,75.0,90.0,great,Nashville
+2.0,2.0,1.0,0.0,85.0,75.0,great,San Francisco
+1.0,2.0,1.0,0.0,50.0,80.0,great,Denver
+0.0,1.0,0.0,1.0,90.0,95.0,great,Denver
+3.0,3.0,2.0,0.0,85.0,90.0,great,Los Angeles
+1.0,2.0,1.0,0.0,90.0,85.0,great,San Francisco
+4.0,4.0,3.5,0.0,95.0,85.0,perfect,Los Angeles
+0.0,1.0,1.0,1.0,65.0,85.0,great,Boston
+1.0,2.0,1.0,0.0,50.0,80.0,great,Houston
+2.0,2.0,2.0,0.0,85.0,90.0,great,Denver
+1.0,2.0,1.0,0.0,60.0,85.0,great,Seattle
+2.0,4.0,1.0,0.0,85.0,90.0,great,Nashville
+1.0,1.0,1.0,0.0,40.0,80.0,great,Boston
+1.0,1.0,0.0,1.0,75.0,90.0,great,Denver
+2.0,4.0,2.0,0.0,80.0,90.0,great,Nashville
+1.0,1.0,1.0,0.0,80.0,90.0,great,Denver
+1.0,1.0,0.0,1.0,70.0,85.0,great,Somerville
+2.0,2.0,1.0,0.0,60.0,95.0,great,Boston
+0.0,2.0,0.0,1.0,80.0,95.0,great,Somerville
+3.0,7.0,2.5,0.0,75.0,90.0,great,Denver
+1.0,0.0,1.0,0.0,80.0,75.0,great,Nashville
+3.0,3.0,2.5,0.0,95.0,85.0,great,Nashville
+3.0,1.0,2.5,0.0,50.0,80.0,great,San Francisco
+1.0,1.0,1.0,0.0,60.0,85.0,great,Nashville
+2.0,3.0,2.5,0.0,95.0,83.0,great,Houston
+3.0,7.0,2.0,0.0,85.0,70.0,great,Nashville
+0.0,0.0,0.0,2.0,85.0,85.0,great,Boston
+1.0,1.0,0.0,1.0,60.0,80.0,great,Los Angeles
+0.0,0.0,0.0,2.0,75.0,90.0,great,Boston
+1.0,1.0,1.0,0.0,70.0,85.0,great,Houston
+1.0,2.0,1.0,0.0,60.0,80.0,great,Seattle
+1.0,1.0,1.0,0.0,75.0,80.0,great,San Francisco
+3.0,3.0,2.0,0.0,85.0,65.0,great,Seattle
+1.0,1.0,0.0,1.0,95.0,90.0,perfect,Denver
+2.0,2.0,1.0,0.0,80.0,85.0,great,Seattle
+6.0,7.0,4.0,0.0,95.0,85.0,perfect,San Francisco
+0.0,0.0,0.0,2.0,70.0,85.0,great,San Francisco
+3.0,3.0,3.0,0.0,50.0,60.0,great,Houston
+3.0,3.0,3.0,0.0,85.0,80.0,great,San Francisco
+4.0,8.0,4.0,0.0,85.0,80.0,great,Nashville
+0.0,0.0,0.0,2.0,75.0,85.0,great,Houston
+0.0,0.0,0.0,2.0,60.0,85.0,great,San Francisco
+2.0,5.0,1.0,0.0,75.0,85.0,great,Los Angeles
+1.0,2.0,1.0,0.0,65.0,75.0,great,San Francisco
+2.0,2.0,1.0,0.0,90.0,85.0,great,Seattle
+2.0,3.0,1.0,0.0,65.0,85.0,great,Seattle
+1.0,1.0,1.0,0.0,80.0,90.0,great,Los Angeles
+2.0,2.0,2.5,0.0,85.0,95.0,great,Denver
+2.0,3.0,0.0,1.0,75.0,80.0,great,Boston
+1.0,2.0,0.0,1.0,95.0,85.0,perfect,San Francisco
+1.0,2.0,1.0,0.0,50.0,90.0,great,Houston
+0.0,0.0,0.0,2.0,85.0,90.0,great,San Francisco
+1.0,2.0,1.0,0.0,85.0,90.0,great,Nashville
+1.0,2.0,1.0,0.0,95.0,85.0,great,San Francisco
+1.0,2.0,1.0,0.0,85.0,90.0,great,Nashville
+1.0,2.0,1.0,0.0,60.0,85.0,great,Boston
+4.0,4.0,2.0,0.0,85.0,90.0,great,Seattle
+1.0,2.0,1.0,0.0,65.0,90.0,great,Boston
+1.0,2.0,1.0,0.0,60.0,80.0,great,Seattle
+1.0,1.0,1.0,0.0,65.0,85.0,great,Boston
+0.0,2.0,0.0,1.0,75.0,65.0,great,San Francisco
+4.0,6.0,2.0,0.0,75.0,85.0,great,Nashville
+0.0,0.0,0.0,2.0,70.0,85.0,great,San Francisco
+1.0,1.0,1.0,0.0,75.0,90.0,great,Nashville
+2.0,4.0,1.0,0.0,85.0,90.0,great,Boston
+0.0,0.0,0.0,2.0,80.0,90.0,great,Los Angeles
+1.0,1.0,1.0,0.0,85.0,80.0,great,Nashville
+0.0,0.0,0.0,2.0,70.0,85.0,great,Houston
+2.0,2.0,1.0,0.0,85.0,90.0,great,Houston
+1.0,2.0,1.0,0.0,80.0,90.0,great,San Francisco
+1.0,3.0,1.0,0.0,65.0,85.0,great,Seattle
+1.0,1.0,0.0,1.0,85.0,90.0,great,San Francisco
+2.0,3.0,2.0,0.0,50.0,70.0,great,Nashville
+1.0,1.0,1.0,0.0,85.0,90.0,great,Denver
+0.0,1.0,1.0,1.0,75.0,90.0,great,Boston
+1.0,1.0,0.0,1.0,60.0,75.0,great,Somerville
+3.0,0.0,2.5,0.0,60.0,90.0,great,Houston
+3.0,4.0,3.0,0.0,95.0,87.0,great,Denver
+0.0,0.0,0.0,2.0,40.0,85.0,great,Denver
+0.0,0.0,0.0,2.0,90.0,95.0,great,San Francisco
+1.0,2.0,1.0,0.0,85.0,90.0,great,Los Angeles
+1.0,4.0,1.0,0.0,90.0,95.0,great,Nashville
+1.0,1.0,1.0,0.0,85.0,75.0,great,Nashville
+4.0,6.0,2.0,0.0,70.0,90.0,great,Denver
+2.0,2.0,2.0,0.0,85.0,90.0,great,Seattle
+4.0,4.0,4.0,0.0,95.0,85.0,perfect,Nashville
+3.0,6.0,2.5,0.0,85.0,90.0,great,Seattle
+1.0,2.0,1.0,0.0,85.0,90.0,great,Nashville
+2.0,2.0,2.0,0.0,60.0,85.0,great,San Francisco
+0.0,1.0,1.0,1.0,75.0,85.0,great,Seattle
+2.0,2.0,1.0,0.0,70.0,85.0,great,Seattle
+1.0,1.0,1.5,0.0,85.0,80.0,great,Denver
+1.0,1.0,0.0,1.0,60.0,90.0,great,San Francisco
+2.0,3.0,1.0,0.0,75.0,80.0,great,San Francisco
+1.0,1.0,1.0,0.0,75.0,90.0,great,Cambridge
+3.0,4.0,2.5,0.0,85.0,90.0,great,Houston
+1.0,1.0,1.0,0.0,70.0,80.0,great,Seattle
+0.0,0.0,0.0,2.0,85.0,85.0,great,San Francisco
+1.0,2.0,1.0,0.0,60.0,90.0,great,Nashville
+1.0,2.0,1.0,0.0,60.0,85.0,great,Denver
+3.0,3.0,1.5,0.0,85.0,90.0,great,Cambridge
+3.0,4.0,2.0,0.0,50.0,80.0,great,Denver
+2.0,2.0,2.5,0.0,90.0,85.0,perfect,Seattle
+1.0,1.0,1.0,0.0,90.0,85.0,great,Denver
+1.0,2.0,1.0,0.0,60.0,80.0,great,Los Angeles
+2.0,3.0,1.0,0.0,85.0,90.0,great,Nashville
+0.0,0.0,0.0,2.0,60.0,85.0,great,San Francisco
+1.0,2.0,0.0,1.0,85.0,75.0,great,Houston
+1.0,2.0,1.0,0.0,75.0,85.0,great,Boston
+1.0,1.0,1.0,0.0,60.0,75.0,great,Houston
+3.0,4.0,3.0,0.0,90.0,85.0,perfect,Los Angeles
+2.0,2.0,1.0,0.0,85.0,70.0,great,Seattle
+0.0,1.0,1.0,1.0,95.0,97.0,great,Seattle
+1.0,2.0,1.0,0.0,80.0,90.0,great,Nashville
+2.0,2.0,1.0,0.0,65.0,90.0,great,Seattle
+1.0,1.0,1.0,0.0,65.0,80.0,great,Boston
+3.0,3.0,3.0,0.0,70.0,80.0,great,Houston
+1.0,2.0,1.0,0.0,65.0,85.0,great,Houston
+2.0,3.0,2.0,0.0,85.0,90.0,great,Somerville
+2.0,2.0,2.0,0.0,70.0,90.0,great,Denver
+1.0,1.0,1.0,0.0,75.0,90.0,great,San Francisco
+0.0,1.0,1.0,1.0,80.0,95.0,great,Boston
+4.0,5.0,2.0,0.0,85.0,75.0,great,Houston
+0.0,0.0,0.0,2.0,70.0,90.0,great,San Francisco
 0.0,1.0,1.0,1.0,70.0,85.0,great,Boston
+2.0,4.0,2.0,0.0,85.0,90.0,great,Denver
+1.0,1.0,0.0,1.0,60.0,75.0,great,San Francisco
+4.0,5.0,2.0,0.0,85.0,75.0,great,Houston
+1.0,1.0,1.0,0.0,85.0,90.0,great,Seattle
+2.0,3.0,1.0,0.0,80.0,95.0,great,Denver
+3.0,4.0,1.5,0.0,90.0,85.0,great,Seattle
+1.0,1.0,0.0,1.0,85.0,90.0,great,San Francisco
+1.0,2.0,1.0,0.0,80.0,95.0,great,San Francisco
+1.0,5.0,1.0,0.0,90.0,85.0,great,Nashville
+0.0,1.0,1.0,1.0,85.0,90.0,great,San Francisco
+4.0,5.0,2.5,0.0,95.0,80.0,perfect,Houston
+1.0,1.0,1.0,0.0,80.0,85.0,great,Seattle
+1.0,1.0,1.0,0.0,40.0,85.0,great,Topanga
+3.0,4.0,3.5,0.0,85.0,90.0,great,Houston
+2.0,2.0,2.0,0.0,90.0,85.0,great,Nashville
+0.0,0.0,0.0,2.0,50.0,80.0,great,Denver
+1.0,2.0,1.0,0.0,50.0,85.0,great,Denver
+1.0,2.0,1.0,0.0,60.0,85.0,great,Los Angeles
+2.0,2.0,1.0,0.0,60.0,90.0,great,Seattle
+1.0,1.0,1.0,0.0,80.0,90.0,great,Seattle
+2.0,3.0,1.0,0.0,80.0,90.0,great,Seattle
+3.0,5.0,3.5,0.0,85.0,90.0,great,Nashville
+4.0,7.0,3.5,0.0,95.0,85.0,perfect,Nashville
+3.0,5.0,3.5,0.0,85.0,90.0,great,Los Angeles
+1.0,2.0,1.0,0.0,70.0,95.0,great,Denver
 1.0,1.0,1.0,0.0,65.0,90.0,great,Houston
-0.0,0.0,0.0,2.0,90.0,85.0,great,San Francisco
-2.0,2.0,3.0,0.0,95.0,85.0,great,Los Angeles
+2.0,2.0,1.0,0.0,75.0,85.0,great,Denver
+2.0,2.0,2.0,0.0,75.0,90.0,great,San Francisco
+1.0,1.0,1.0,0.0,85.0,75.0,great,Seattle
+2.0,2.0,1.0,0.0,90.0,85.0,great,Denver
+1.0,1.0,0.0,1.0,40.0,80.0,acceptable,Nashville
+1.0,2.0,1.0,0.0,85.0,85.0,great,Seattle
+2.0,4.0,2.0,0.0,85.0,90.0,great,Nashville
+3.0,3.0,3.0,0.0,75.0,80.0,great,Los Angeles
+0.0,0.0,0.0,2.0,50.0,80.0,great,Houston
+1.0,1.0,1.0,0.0,85.0,90.0,great,Nashville
+1.0,2.0,2.0,0.0,80.0,90.0,great,Seattle
+3.0,4.0,1.5,0.0,75.0,90.0,great,San Francisco
+0.0,0.0,0.0,2.0,75.0,80.0,great,Boston
+1.0,1.0,0.0,1.0,50.0,85.0,great,Houston
+1.0,3.0,1.0,0.0,70.0,85.0,great,Houston
+2.0,3.0,2.0,0.0,65.0,85.0,great,San Francisco
