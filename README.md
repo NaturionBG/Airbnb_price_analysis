@@ -1,1 +1,1 @@
-An ML project to classify AirBNB housing prices between two categories (0 - Unjustified, 1 - Justified) using classic ML, Computer Vision and Natural Language Processing!
+An ML project to regress AirBNB housing prices using classic ML, Computer Vision and Natural Language Processing!
